@@ -1,29 +1,41 @@
-name: Grove Of Titans Cover
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.00744
 title: Vision
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.5
+  lightness: 0.377551
+  brandColors:
+    - '#0B0E28'
+    - '#652728'
+    - '#6E6464'
+    - '#7888A3'
+    - '#417602'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Grove Of Titans Cover
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#080f2d'
-    - '#76655e'
-    - '#4b2e30'
-    - '#0c3624'
-    - '#81aa58'
-  brandStrength: 0.5
-  lightness: 0.0625
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0
+layout_spectrum: 1
