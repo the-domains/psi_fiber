@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 1
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.377551
   brandColors:
-    - '#0B0E28'
-    - '#652728'
-    - '#6E6464'
-    - '#7888A3'
-    - '#417602'
+    - '#000000'
+    - '#2F2A41'
+    - '#C0942E'
+    - '#A793DB'
+    - '#FFFEFF'
   rhythmicContrast: 1
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Grove Of Titans Cover
 favicon: null
+name: Grove Of Titans Cover
 opengraph:
   image: null
   type: null
