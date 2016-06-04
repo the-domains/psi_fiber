@@ -18,10 +18,10 @@ color:
   lightness: 0.377551
   brandColors:
     - '#000000'
-    - '#2F2A41'
-    - '#C0942E'
-    - '#A793DB'
-    - '#FFFEFF'
+    - '#27140C'
+    - '#56522A'
+    - '#5E260D'
+    - '#3D2E0D'
   rhythmicContrast: 1
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Grove Of Titans Cover
 favicon: null
+name: Grove Of Titans Cover
 opengraph:
   image: null
   type: null
