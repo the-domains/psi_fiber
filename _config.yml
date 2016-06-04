@@ -14,7 +14,7 @@ collections:
       path: '/:title/'
 color:
   saturation: 1
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.377551
   brandColors:
     - '#000000'
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Grove Of Titans Cover
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0
-layout_spectrum: 1
+layout_spectrum: 0.2636949
